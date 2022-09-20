@@ -1,3 +1,8 @@
+# Simple code for creating a specific password and allow the user to input his/her set password in a set number of trials
+# Let's say the set password is 1000 and the password limit=the number of times the user will input the password and if they fail it'll return a certain error
+# We will allow the user to enter his or her password 
+# Code created by Dave KE 2022
+# You can run this code in PyCham
 
 password = ("1000")
 enter = ""
