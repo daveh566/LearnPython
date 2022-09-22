@@ -1,2 +1,3 @@
 # LearnPython
-A repo for learning python from scratch, learn how to code because coding is the future of everything... Pretty cool stuffs over here......
+First you need to install python (latest version recommended) in your pc
+[Download](https://www.python.org/downloads/release/python-3107/) 
