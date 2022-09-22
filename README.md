@@ -2,7 +2,7 @@
 
 
 # Python Language
-[Python](https://python.org] is a simple programming language for you to take time and learn.
+[Python](https://python.org) is a simple programming language for you to take time and learn.
 
 
 ✓ First you need to install python (latest version recommended) in your pc
